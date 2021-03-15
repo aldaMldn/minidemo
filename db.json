@@ -1,0 +1,24 @@
+{
+    "customers" : [
+        {
+            "id": 1,
+            "user_name": "Anton",
+            "password": "anton123",
+            "role": "user"
+        },
+        {
+            "id": 2,
+            "user_name": "Nadia",
+            "password": "nadia123",
+            "role": "user"
+        }
+    ],
+
+    "products":[
+        {
+            "id": 1,
+            "name": "Keripik Kusuka",
+            "price": 4000
+        }
+    ]
+}
