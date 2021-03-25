@@ -1,5 +1,4 @@
-{
-    "customers" : [
+"customers" : [
         {
             "id": 1,
             "phone": "087874703639",
@@ -14,5 +13,4 @@
             "password": "nadia123",
             "role": "user"
         }
-    ]
-}
+]
