@@ -93,7 +93,7 @@
             "price": 4000
         }
     ],
-    "Coupons" : [
+    "coupons" : [
         {
             "id": 1,
             "coupon_name": "Discount Oreo",
@@ -106,5 +106,5 @@
             "description": "Discount Products",
             "amount": 2000
         }
-    ],
+    ]
 }
