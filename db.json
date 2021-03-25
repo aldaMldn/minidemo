@@ -15,7 +15,8 @@
       "role":"user"
     }
   ],
-  "products":[
+  "products":
+    [
         {
             "id":1,
             "name": "Sandwitch Tuna",
