@@ -1,8 +1,18 @@
 {
-  "posts": [
+  "customers": [
     {
-      "id": 1,
-      "title": "hello"
+      "id":1,
+      "phone":"087874703639",
+      "user_name":"Anton",
+      "password":"anton123",
+      "role":"user"
+    },
+    {
+      "id":2,
+      "phone":"087874703636",
+      "user_name":"Nadia",
+      "password":"nadia123",
+      "role":"user"
     }
   ],
   "profile": {
